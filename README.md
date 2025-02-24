@@ -1,5 +1,5 @@
 # Who Was the Most Clutch NFL Quarterback Between 2009 and 2018?
-
+![alt text](https://www.jacksonville.com/gcdn/authoring/images/smg/2024/05/13/USAT/73352725007-22199850-3.jpeg?crop=1199,676,x0,y51&width=660&height=371&format=pjpg&auto=webp)
 ## Project Overview
 
 This is a personal data analysis project I created to answer the question: who was the most clutch QB in the NFL? Here is how the project was completed:
